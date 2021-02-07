@@ -5,7 +5,7 @@ This is my set of notes for learning Scala.
 
 
 
-<img src="notes/imgs/logo.png" width="30%"  marging-left="60px"/>
+<img src="notes/imgs/logo.png" width="10%"  marging-left="60px"/>
 
 This is my set of notes for learning Scala programming. These notes have been produced using a variety of sources. However, the main references used are
 
