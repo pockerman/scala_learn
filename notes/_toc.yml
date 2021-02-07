@@ -1,0 +1,6 @@
+- file: basic/basic
+  sections:
+  - file: basic/values_and_types
+  - file: baisc/operator_overloading
+  - file: basic/functions
+  - file: basic/higher_order_functions
