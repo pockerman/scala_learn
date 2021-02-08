@@ -4,3 +4,5 @@
   - file: baisc/operator_overloading
   - file: basic/functions
   - file: basic/higher_order_functions
+  
+- file: collections/collections
