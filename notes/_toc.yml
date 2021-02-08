@@ -6,3 +6,5 @@
   - file: basic/higher_order_functions
   
 - file: collections/collections
+  sections:
+  - file: collections/operations
