@@ -20,6 +20,11 @@ This is not done deliberately. Let me know if you identify places where your wor
 
 ---
 
+## Contents
+
+- Item: Basic
+- Item: Collections
+
 ## Building ```jupyter-book```
 
 Assuming that you have <a href="https://jupyterbook.org/intro.html">jupyter-book</a> installed you can generate
